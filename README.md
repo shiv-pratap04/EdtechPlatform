@@ -90,10 +90,6 @@ StudyNotion is a comprehensive educational platform aimed at providing a seamles
         <img src="https://github.com/shiv-pratap04/EdtechPlatform/blob/main/assets/Login_page.png" alt="Landing page" style="width: 300px;"/>
         <br />
       </td>
-      <td align="center">
-        <img src="https://github.com/shiv-pratap04/EdtechPlatform/blob/main/assets/Logout.png" alt="Landing register" style="width: 300px;"/>
-        <br />
-      </td>
     </tr>
   </table>
 </div>
