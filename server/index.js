@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:["*"],
+		origin:["http://localhost:3000","https://edtech-platform-fe79d6jy6-shiv-pratap04s-projects.vercel.app"],
 		credentials:true,
 	})
 )
